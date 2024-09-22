@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I am Debajit 👋
 
+I'm a graduate student pursuing a Master's in Computer Science at UT Austin!
+
+If you look through my repos, you will find some cool machine learning, software engineering, and assignments that I have worked on personally, in my past classes, and through hackathons, and research collaborations!
+
+🔭 I’m currently working on competitive programming
+📫 How to reach me: c.debajit15@gmail.com
+  
 <!--
 **debajit15kgp/debajit15kgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
